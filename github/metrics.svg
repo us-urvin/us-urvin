@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
+  <rect width="480" height="120" rx="10" fill="#1a1b27"/>
+  <text x="240" y="56" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Metrics are generating…</text>
+  <text x="240" y="80" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#565f89">the profile.yml action refreshes this every 6h</text>
+</svg>
