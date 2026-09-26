@@ -95,34 +95,6 @@ echo "Turning ideas into products people actually enjoy using. ✨";
 
 ---
 
-## 🚀 Things I've built
-
-<table>
-  <tr>
-    <td>
-      <h3>📦 laravel-host-manager</h3>
-      <p><em>One command to spin up a local Laravel host on Ubuntu.</em></p>
-      <p>
-        <a href="https://github.com/us-urvin/laravel-host-manager"><img src="https://img.shields.io/badge/repo-laravel--host--manager-6D28D9?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/github/stars/us-urvin/laravel-host-manager?style=flat-square&color=EC4899&labelColor=1a1b27" />
-        <img src="https://img.shields.io/badge/shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-        <img src="https://img.shields.io/badge/license-MIT-9333EA?style=flat-square" />
-      </p>
-      <p>Nginx vhost · PHP-FPM version pick · local SSL · <code>/etc/hosts</code> entry · permissions · config validation with rollback.</p>
-    </td>
-  </tr>
-</table>
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **RR Group** | Live performance-management platform for teams. | `Laravel` `React` `MySQL` `Tailwind` |
-| **DevNest** | A developer's home base for organizing project info, docs and credentials. | `Laravel` `React` `MySQL` |
-| **[Laravel DB Auditor](https://github.com/vcian/laravel-db-auditor)** | Scans MySQL / PostgreSQL / SQLite schemas for missing constraints & standards, fixes them from the CLI. Contributed at ViitorCloud — <img src="https://img.shields.io/packagist/dt/vcian/laravel-db-auditor?style=flat-square&label=installs&color=6D28D9" align="center" /> · <img src="https://img.shields.io/github/stars/vcian/laravel-db-auditor?style=flat-square&color=EC4899" align="center" /> | `Laravel` `Package` |
-
-> 🌐 More on my site → **[urvin.space](https://urvin.space)**
-
----
-
 ## 🐍 Watch my contributions get eaten
 
 <picture>
