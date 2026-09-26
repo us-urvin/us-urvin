@@ -31,11 +31,7 @@
 <?php
 
 $urvin = [
-    'role'       => 'Full-Stack Developer',
-    'based_in'   => 'Ahmedabad, India 🇮🇳',
-    'experience' => '7+ years',
     'focus'      => ['scalable apps', 'clean code', 'delightful UX'],
-    'stack'      => ['Laravel', 'Vue', 'Livewire', 'React', 'PostgreSQL', 'Nginx'],
     'off_the_clock' => 'building CLI tools that do my setup for me',
     'motto'      => 'Make it work → make it clean → make it disappear.',
 ];
@@ -45,65 +41,6 @@ echo "Turning ideas into products people actually enjoy using. ✨";
 
 ---
 
-## 🧰 Tech I reach for
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,js,tailwind,mysql,postgres,redis,nginx,linux,bash,docker,git,github,figma&perline=8" alt="tech stack icons" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Data</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Ops &amp; Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Watch my contributions get eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/us-urvin/us-urvin/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/us-urvin/us-urvin/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/us-urvin/us-urvin/output/snake.svg" />
-</picture>
-
----
 
 ## 💬 A thought for the road
 
